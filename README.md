@@ -6,6 +6,8 @@ Test FPS map from:
 - https://forum.castle-engine.io/t/my-first-fps-map-made-in-blender/2040
 - made by https://sketchfab.com/hanitaieberrahmani
 
+![Screenshot from editor](screenshot_editor.png)
+
 Using [Castle Game Engine](https://castle-engine.io/).
 
 ## Building
