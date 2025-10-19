@@ -1,0 +1,11 @@
+Model Information:
+* title:	FPS Map
+* source:	https://sketchfab.com/3d-models/fps-map-0088cd0d30184cbc87edf9b7fce88f6c
+* author:	hanitaieberrahmani (https://sketchfab.com/hanitaieberrahmani)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FPS Map" (https://sketchfab.com/3d-models/fps-map-0088cd0d30184cbc87edf9b7fce88f6c) by hanitaieberrahmani (https://sketchfab.com/hanitaieberrahmani) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
